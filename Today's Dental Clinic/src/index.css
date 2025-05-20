@@ -1,0 +1,36 @@
+.image {
+    position: absolute;
+    top: 420px;
+    left: -150px;
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.image h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.service {
+    padding-bottom: 50px;
+}
+
+#faqAccordion {
+    padding-bottom: 50px;
+}
+
+#title {
+    color: #2C3642;
+    font-size: large;
+    font-family: sans-serif;
+    text-decoration: solid;
+    font: bolder;
+    text-decoration: wavy;
+    text-overflow: ellipsis;
+    text-shadow: 3px;
+}
